@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/selfolio/static/css/main.073c9b0a.css",
-    "main.js": "/selfolio/static/js/main.a33b4a0c.js",
+    "main.js": "/selfolio/static/js/main.6a30f006.js",
     "static/js/787.0658e746.chunk.js": "/selfolio/static/js/787.0658e746.chunk.js",
-    "static/media/logo.svg": "/selfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/selfolio/index.html",
     "main.073c9b0a.css.map": "/selfolio/static/css/main.073c9b0a.css.map",
-    "main.a33b4a0c.js.map": "/selfolio/static/js/main.a33b4a0c.js.map",
+    "main.6a30f006.js.map": "/selfolio/static/js/main.6a30f006.js.map",
     "787.0658e746.chunk.js.map": "/selfolio/static/js/787.0658e746.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a33b4a0c.js"
+    "static/js/main.6a30f006.js"
   ]
 }

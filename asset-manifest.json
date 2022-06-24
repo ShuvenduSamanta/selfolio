@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/selfolio/static/css/main.5cba63f7.css",
-    "main.js": "/selfolio/static/js/main.de470dc3.js",
+    "main.css": "/selfolio/static/css/main.11e4b37a.css",
+    "main.js": "/selfolio/static/js/main.b1e4091c.js",
     "static/js/787.0658e746.chunk.js": "/selfolio/static/js/787.0658e746.chunk.js",
+    "static/media/me.png": "/selfolio/static/media/me.c985faaec3819d32570a.png",
     "static/media/cv.pdf": "/selfolio/static/media/cv.1c5a2065346c5e3c3282.pdf",
     "index.html": "/selfolio/index.html",
-    "main.5cba63f7.css.map": "/selfolio/static/css/main.5cba63f7.css.map",
-    "main.de470dc3.js.map": "/selfolio/static/js/main.de470dc3.js.map",
+    "main.11e4b37a.css.map": "/selfolio/static/css/main.11e4b37a.css.map",
+    "main.b1e4091c.js.map": "/selfolio/static/js/main.b1e4091c.js.map",
     "787.0658e746.chunk.js.map": "/selfolio/static/js/787.0658e746.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cba63f7.css",
-    "static/js/main.de470dc3.js"
+    "static/css/main.11e4b37a.css",
+    "static/js/main.b1e4091c.js"
   ]
 }
